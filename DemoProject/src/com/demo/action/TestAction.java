@@ -8,6 +8,6 @@ public class TestAction {
 		return i-j;
 	}
 	public int multible(int i,int j){
-		return i*j;
+		return i*j*20;
 	}
 }
